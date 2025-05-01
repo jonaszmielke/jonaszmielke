@@ -1,3 +1,22 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonaszmielke&show_icons=true&theme=dark&hide_border=true&border_radius=9&hide_rank=true)](https://github.com/jonaszmielke/github-readme-stats)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jonaszmielke
+         &show_icons=true
+         &theme=dark
+         &hide_border=true
+         &border_radius=9
+         &hide_rank=true
+         &custom_title=GitHub%20Stats"
+    alt="GitHub stats" />
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonaszmielke&hide_progress=false&layout=compact&theme=dark&hide_border=true&border_radius=9)
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaszmielke
+         &hide_progress=false
+         &layout=compact
+         &theme=dark
+         &hide_border=true
+         &border_radius=9"
+    alt="Most used languages" />
+</p>
