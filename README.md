@@ -1,4 +1,4 @@
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 1rem;">
   <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=jonaszmielke
@@ -19,4 +19,4 @@
          &hide_border=true
          &border_radius=9"
     alt="Most used languages" />
-</p>
+</div>
